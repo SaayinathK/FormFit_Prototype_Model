@@ -4,6 +4,8 @@
 **Team:** 4 Members  
 **Associated with:** SLIIT  
 
+**Figma Prototype Link:** [View Prototype](https://www.figma.com/design/MET09i8VJIQyOCnnH4pgL8/UEE_labTest_Y3S1_WE_13?node-id=0-1&t=Rhbrjh0YoJloc1tP-1)
+
 ## Project Overview
 This project involved the rapid design of a Gym Workout Planner mobile application prototype as part of a lab test. Within 3 hours, our team applied user-centered design principles to conduct stakeholder research and translate insights into a functional Figma UI/UX prototype.
 
@@ -32,8 +34,6 @@ Based on research findings, the solution emphasizes:
 - Community engagement and challenge-based motivation  
 
 The prototype also addresses gym business needs, including class scheduling, trainer booking, member engagement analytics, and retention-focused features.  
-
-**Figma Prototype Link:** [View Prototype](https://www.figma.com/design/MET09i8VJIQyOCnnH4pgL8/UEE_labTest_Y3S1_WE_13?node-id=0-1&t=Rhbrjh0YoJloc1tP-1)
 
 ## Skills & Methods
 - Team Collaboration  
